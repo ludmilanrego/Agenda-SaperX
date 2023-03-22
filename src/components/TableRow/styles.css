@@ -1,0 +1,60 @@
+.table-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 1200px;
+    height: 58px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.table-row-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-row-section .icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons {
+    position: relative;
+
+}
+
+.table-row-0 {
+    width: 13%;
+}
+
+.table-row-1 {
+    width: 13%;
+}
+
+.table-row-2 {
+    width: 27%;
+}
+
+.table-row-3 {
+    width: 20%;
+}
+
+.table-row-4 {
+    width: 14%;
+}
+
+.icons {
+    width: 13%;
+}
+
+.edit-img {
+    height: 30px;
+    width: 30px;
+}
+
+.delete-img {
+    height: 30px;
+    width: 30px;
+}

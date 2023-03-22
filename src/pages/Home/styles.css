@@ -1,0 +1,30 @@
+.home-container {
+    background: linear-gradient(90deg, #370000 0, #040a31 90%);
+    width: 100vw;
+    min-height: 100vh;
+    overflow: scroll;
+}
+
+main {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    background-color: var(--white);
+    width: 100%;
+    min-height: 90vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding-top: 55px;
+
+}
+
+.edit-content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    width: 1200px;
+}
