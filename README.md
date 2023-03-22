@@ -8,6 +8,8 @@ Trata-se de uma aplicação front-End para controle de contatos pessoais pessoai
 - Edição de contato
 - Exclusão de contato
 
+Apresentação figma disponivel no link: https://www.figma.com/file/yWr2ZgjgCMB3ICin27L1IE/DinDin-2.0?node-id=0%3A1&t=aoe4Tmo7suMOpyC9-1
+
 ## Como rodar o projeto
 
 1 - Tenha certeza que o npm está instalado.
