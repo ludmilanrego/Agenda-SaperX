@@ -79,3 +79,16 @@
 .table-row-cell-4 {
     width: 14%;
 }
+
+.table-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 1200px;
+    height: 58px;
+
+    background: var(--light-gray);
+    box-shadow: 0px 2px 11px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
